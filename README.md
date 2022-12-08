@@ -1,7 +1,12 @@
-### Hi there 👋
+<div align="center">
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I5GFKAS)
 
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ale32bit)](https://github.com/Ale32bit)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ale32bit&layout=compact)](https://github.com/Ale32bit)
+  
+</div>
 <!--
 **Ale32bit/Ale32bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
